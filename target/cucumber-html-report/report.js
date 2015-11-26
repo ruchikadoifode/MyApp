@@ -39,7 +39,7 @@ formatter.match({
   "location": "LoginTest.I_Go_To_Salesforce(String,String)"
 });
 formatter.result({
-  "duration": 105425021,
+  "duration": 96844571,
   "status": "passed"
 });
 });

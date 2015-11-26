@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.105425">
-<testcase classname="Logging into Salesforce" name="Logging in salesforce" time="0.105425">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.096845">
+<testcase classname="Logging into Salesforce" name="Logging in salesforce" time="0.096845">
 <system-out><![CDATA[Given I go to "loginURL" on "Mozilla".......................................passed
 ]]></system-out>
 </testcase>
