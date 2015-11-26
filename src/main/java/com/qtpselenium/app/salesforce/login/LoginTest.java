@@ -7,6 +7,7 @@ public class LoginTest {
 	@Given("^I go to \"([^\"]*)\" on \"([^\"]*)\"$")
 	public void I_Go_To_Salesforce(String URL,String browser){
 		System.out.println("I am going to "+ URL +" on  "+ browser);
+		System.out.println("test running");
 		//selenium.openBrowser(browser);
 		//selenium.navigate(URL);
 	}
